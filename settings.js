@@ -12,8 +12,8 @@ const { version } = require("./package.json")
 
 
 //======= Change settings =======\\
-global.owner = "2347036214381"
-global.botname = "αrch md"
+global.owner = "50939471930"
+global.botname = "itachi md"
 global.ownername = "" //set bot owner name here 
 global.simbol = "♘"
 global.typeMenu = 'v2' // choose between 1,2,3
